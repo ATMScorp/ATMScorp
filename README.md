@@ -26,12 +26,6 @@
     <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="40" height="40"/></a>  <br>
 </p>
         <hr>
-<p>
-    <img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terentii&theme=dark&show_icons=true)" alt="terentii"/>
-</p>
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terentii&show_icons=true&locale=en" alt="terentii"/>
-</p>
         <br>
 <hr>    
 </body>
