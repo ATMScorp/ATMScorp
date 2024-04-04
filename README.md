@@ -27,7 +27,7 @@
 </p>
         <hr>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentii&show_icons=true&locale=en&layout=compact" alt="terentii"/>
+    <img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terentii&theme=dark&show_icons=true)" alt="terentii"/>
 </p>
 <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terentii&show_icons=true&locale=en" alt="terentii"/>
