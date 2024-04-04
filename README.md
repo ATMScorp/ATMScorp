@@ -24,9 +24,5 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="40" height="40"/></a> 
     <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="40" height="40"/></a>  <br>
-</p>
-        <hr>
-        <br>
-<hr>    
 </body>
 </html>
