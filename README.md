@@ -11,8 +11,8 @@
   🌱 I’m currently learning <strong>JAVA</strong> <br>
   📫 You can reach me by mail: <a href = "mailto:alextrukhanovich034@gmail.com">alextrukhanovich034@gmail.com</a>
     <h2>Java/Spring/Angular/TypeScript/SQL |Computer Science Student| Seeking for new opportunities</h2>
-
-    <img src="https://komarev.com/ghpvc/?username=terentii&style=flat-square&color=blue" alt=""/>
+<div><img src="https://komarev.com/ghpvc/?username=terentii&style=flat-square&color=blue" alt=""/></div>
+    
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
