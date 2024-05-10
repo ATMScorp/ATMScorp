@@ -24,7 +24,7 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <br>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="40" height="40"/></a> 
-    <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="40" height="40"/></a>  <br>
+    <a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/terentii/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="40" height="40"/></a> 
+    <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/terentii/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="40" height="40"/></a>  <br>
 </body>
 </html>
