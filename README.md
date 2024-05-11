@@ -11,9 +11,6 @@
   🌱 I’m currently learning <strong>JAVA</strong> <br>
   📫 You can reach me by mail: <a href = "mailto:alextrukhanovich034@gmail.com">alextrukhanovich034@gmail.com</a>
     <h2>Java/Spring/Angular/TypeScript/SQL |Computer Science Student| Seeking for new opportunities</h2>
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=terentii&style=flat-square&color=blue" alt=""/>
-    </div>
     
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -27,5 +24,9 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+<div align="right">
+        <img src="https://komarev.com/ghpvc/?username=terentii&style=flat-square&color=blue" alt=""/>
+</div>
 </body>
 </html>
