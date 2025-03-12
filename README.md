@@ -1,32 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h3>About me</h3>
-  👋 Hi, I’m Alex
-  👀 I’m interested in coding <br>
-  🌱 I’m currently learning <strong>JAVA</strong> <br>
-  📫 You can reach me by mail: <a href = "mailto:alextrukhanovich034@gmail.com">alextrukhanovich034@gmail.com</a>
-    <h2>Java/Spring/Angular/TypeScript/SQL |Computer Science Student| Seeking for new opportunities</h2>
-    
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<!-- SEO Optimization -->
+<meta name="description" content="Alexander Trukhanovich - Full-Stack Developer | Java, Spring, JavaScript, React, SQL | Passionate about building scalable and efficient applications">
+<meta name="keywords" content="Full-Stack Developer, Java, Spring, JavaScript, React, SQL, Backend Developer, Software Engineer, Problem-Solving, Open to Work">
+<meta name="author" content="Alexander Trukhanovich">
 
 <div align="right">
-        <img src="https://komarev.com/ghpvc/?username=terentii&style=flat-square&color=blue" alt=""/>
+        <img src="https://komarev.com/ghpvc/?username=terentii&style=flat-square&color=red" alt="profile views"/>
 </div>
-</body>
-</html>
+<div align="center">
+
+# 👋 Hi, I’m Alex
+
+🚀 **Full-Stack Developer | Computer Science Enthusiast**
+
+My focus is on creating **efficient, scalable, and maintainable applications** using **Java, Spring, JavaScript, React, and SQL**. I have a deep appreciation for clean code and best development practices.
+
+🎯 **Looking for:**
+<br>Opportunities to contribute to **full-stack projects**.
+<br>Learning and applying **new technologies** in a professional environment.
+<br>Working on challenging problems that improve my development skills.
+
+📫 Contact me: [Email](mailto:alextrukhanovich034@gmail.com) | [LinkedIn](https://www.linkedin.com/in/terentii/)
+
+---
+
+</div>
+
+## 🌍 Languages Spoken:
+
+- 🇵🇱 Polish - B2
+- 🇬🇧 English - B1
+- Cyrillic (Native Speaker)
+
+---
+
+## 🔧 Technical Skills & Tools:
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🤝 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terentii/)
