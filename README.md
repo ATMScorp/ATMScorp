@@ -33,7 +33,7 @@ My focus is on creating **efficient, scalable, and maintainable applications** u
 
 ---
 
-## 🔧 Technical Skills & Tools:
+## 🔧 I work with:
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
