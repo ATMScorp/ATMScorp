@@ -1,8 +1,3 @@
-<!-- SEO Optimization -->
-<meta name="description" content="Alexander Trukhanovich - Full-Stack Developer | Java, Spring, JavaScript, React, SQL | Passionate about building scalable and efficient applications">
-<meta name="keywords" content="Full-Stack Developer, Java, Spring, JavaScript, React, SQL, Backend Developer, Software Engineer, Problem-Solving, Open to Work">
-<meta name="author" content="Alexander Trukhanovich">
-
 <div align="right">
         <img src="https://komarev.com/ghpvc/?username=terentii&style=flat-square&color=red" alt="profile views"/>
 </div>
@@ -10,12 +5,9 @@
 
 # 👋 Hi, I’m Alex
 
-🚀 **Full-Stack Developer | Computer Science Enthusiast**
-
-My focus is on creating **efficient, scalable, and maintainable applications** using **Java, Spring, JavaScript, React, and SQL**. I have a deep appreciation for clean code and best development practices.
+🚀 **Computer Science Enthusiast**
 
 🎯 **Looking for:**
-<br>Opportunities to contribute to **full-stack projects**.
 <br>Learning and applying **new technologies** in a professional environment.
 <br>Working on challenging problems that improve my development skills.
 
@@ -30,20 +22,6 @@ My focus is on creating **efficient, scalable, and maintainable applications** u
 - 🇵🇱 Polish - B2
 - 🇬🇧 English - B1
 - Cyrillic (Native Speaker)
-
----
-
-## 🔧 I work with:
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
